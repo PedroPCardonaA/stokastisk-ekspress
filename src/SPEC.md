@@ -1,6 +1,6 @@
-# Content spec: Stokastisk Ekspress (ISTT1001 Statistikk exam-practice game)
+# Content spec: Stokastisk Ekspress (ISTT1003 Statistikk exam-practice game)
 
-This is a single-file HTML quiz game, train-themed, for the NTNU statistics exam ISTx100y (ISTT1001 and siblings). The engine is `src/template.html`. Content lives in plain JS files that `build.py` concatenates. **Only create or edit the files you were assigned.** Do not run `build.py`: other agents build in parallel and the output is shared. Check your work with:
+This is a single-file HTML quiz game, train-themed, for the NTNU statistics exam ISTx100y (ISTT1003 and siblings). The engine is `src/template.html`. Content lives in plain JS files that `build.py` concatenates. **Only create or edit the files you were assigned.** Do not run `build.py`: other agents build in parallel and the output is shared. Check your work with:
 
 ```bash
 cd "/home/pedroc/Downloads/raisa assigmen/stat exam/stokastisk-ekspress/src" && node validate.js <your files>
