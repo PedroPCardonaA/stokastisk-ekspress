@@ -1,6 +1,6 @@
 # 🚂 Stokastisk Ekspress
 
-A train-trip exam-practice game for **ISTT1001 – Statistikk** at NTNU (the shared ISTx100y exam, also used by ISTA/ISTG 1001–1003). It is bilingual (🇳🇴 / 🇬🇧), a single offline HTML file, and has no tracking.
+A train-trip exam-practice game for **ISTT1001 – Statistikk** at NTNU (the shared ISTx100y exam for ISTT/ISTA/ISTG 1001–1003 and VB6044). It is bilingual (🇳🇴 / 🇬🇧), a single offline HTML file, and has no tracking.
 
 **▶ Play:** https://pedropcardonaa.github.io/stokastisk-ekspress/
 
@@ -22,6 +22,7 @@ A train-trip exam-practice game for **ISTT1001 – Statistikk** at NTNU (the sha
 
   - Every sub-question from the ISTx100y exams 2020–2025: ordinary exams, August resits and practice exams.
   - New practice questions in the same style.
+  - Not covered: ISTT1001's 2.5 sp specialisation part (two-level factorial experiments and statistical quality control). It has not appeared on any ISTx100y exam from 2020–2025, so use the course material for it.
 - **Question types:**
   - single choice (6 options, as on the exam);
   - true/false;
